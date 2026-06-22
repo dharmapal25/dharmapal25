@@ -23,7 +23,7 @@
 
 ---
 
-## 🙋‍♂️ About Me
+##  About Me
 
 ```javascript
 const Flash = {
@@ -31,26 +31,25 @@ const Flash = {
   alias    : "Flash ⚡",
   college  : "LIT Lucknow — B.Tech CSE (2027)",
   focus    : ["Full-Stack Web Dev", "AI/ML", "System Design"],
-  currently: "Building projects that scale 🚀",
+  currently: "Building projects that scale ",
   openTo   : "Internships & Job Opportunities "
 };
 ```
 
 ---
 
-## 🔥 What I'm Building & Learning
+##  What I'm Building & Learning
 
-- 🏗️ **Portfolio Website** — React + 3D skills globe + GSAP animations
-- 🤖 **AI/ML** — Exploring Sigma Prime batch (transformers, LSTMs, pipelines)
-- 📐 **System Design** — Consistent hashing, message queues, CAP theorem
-- 🧠 **DSA** — LeetCode grind in JavaScript
-- 🐳 **DevOps** — Docker + deployment workflows
+-  **Portfolio Website** — React + 3D skills globe + GSAP animations
+-  **AI/ML** — Exploring Sigma Prime batch (transformers, LSTMs, pipelines)
+-  **System Design** — Consistent hashing, message queues, CAP theorem
+-  **DevOps** — Docker + deployment workflows
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-| 🥇 Achievement | 📍 Event |
+|  Achievement |  Event |
 |---|---|
 | **National Finalist 🏆** | India Innovates 2026 — Bharat Mandapam, New Delhi |
 | **1st Place — Bug Hunt** | DevXcel 2024-25 National Tech Fest |
@@ -58,12 +57,12 @@ const Flash = {
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3>💬 ChatRoom Hub</h3>
+      <h3> ChatRoom Hub</h3>
       <p>Real-time chat app with MERN + Socket.IO + Redis + JWT + PWA architecture.</p>
       <p>
         <strong>🏆 National Finalist — India Innovates 2026</strong>
@@ -91,7 +90,7 @@ const Flash = {
   </tr>
   <tr>
     <td width="50%">
-      <h3>🖥️ Flash OS</h3>
+      <h3> Flash OS</h3>
       <p>Browser-based OS experience with glassmorphism UI and draggable windows using react-rnd.</p>
       <p>
         <a href="https://flashos.vercel.app">🌐 Live Demo</a>
@@ -102,7 +101,7 @@ const Flash = {
       </p>
     </td>
     <td width="50%">
-      <h3>🌐 Portfolio</h3>
+      <h3> Portfolio</h3>
       <p>Personal developer portfolio with 3D skills globe, hero animations, and project showcase.</p>
       <p>
         <a href="https://flash-devs.vercel.app">🌐 Live Demo</a>
@@ -118,7 +117,7 @@ const Flash = {
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend**
 
@@ -136,7 +135,6 @@ const Flash = {
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 **Database & Cloud**
 
@@ -155,7 +153,7 @@ const Flash = {
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dharmapal25&show_icons=true&theme=dark&bg_color=1C1917&title_color=E8A87C&icon_color=D4A843&text_color=ffffff&border_color=C4956A&hide_border=false" height="165" alt="GitHub Stats"/>
@@ -169,7 +167,7 @@ const Flash = {
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/dharmapal25">
