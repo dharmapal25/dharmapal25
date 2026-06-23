@@ -29,21 +29,12 @@
 const Flash = {
   name     : "Dharmapal Bharati",
   alias    : "Flash ⚡",
-  college  : "LIT Lucknow — B.Tech CSE (2027)",
+  college  : "LIT Lucknow — B.Tech CSE (2028)",
   focus    : ["Full-Stack Web Dev", "AI/ML", "System Design"],
   currently: "Building projects that scale ",
   openTo   : "Internships & Job Opportunities "
 };
 ```
-
----
-
-##  What I'm Building & Learning
-
--  **Portfolio Website** — React + 3D skills globe + GSAP animations
--  **AI/ML** — Exploring Sigma Prime batch (transformers, LSTMs, pipelines)
--  **System Design** — Consistent hashing, message queues, CAP theorem
--  **DevOps** — Docker + deployment workflows
 
 ---
 
@@ -65,7 +56,8 @@ const Flash = {
       <h3> ChatRoom Hub</h3>
       <p>Real-time chat app with MERN + Socket.IO + Redis + JWT + PWA architecture.</p>
       <p>
-        <strong>🏆 National Finalist — India Innovates 2026</strong>
+        <!-- <strong>🏆 National Finalist — India Innovates 2026</strong> -->
+        <a href="https://chatroom-hub.vercel.app/">Live Demo</a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -78,7 +70,7 @@ const Flash = {
       <h3>🤖 FlashGPT AI</h3>
       <p>RAG-powered AI chatbot with Pinecone vector search, Groq LLM, and Google OAuth.</p>
       <p>
-        <a href="https://flashgpt-ai.vercel.app">🌐 Live Demo</a>
+        <a href="https://flashgpt-ai.vercel.app">Live Demo</a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -93,7 +85,7 @@ const Flash = {
       <h3> Flash OS</h3>
       <p>Browser-based OS experience with glassmorphism UI and draggable windows using react-rnd.</p>
       <p>
-        <a href="https://flashos.vercel.app">🌐 Live Demo</a>
+        <a href="https://flashos.vercel.app">Live Demo</a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -104,7 +96,7 @@ const Flash = {
       <h3> Portfolio</h3>
       <p>Personal developer portfolio with 3D skills globe, hero animations, and project showcase.</p>
       <p>
-        <a href="https://flash-devs.vercel.app">🌐 Live Demo</a>
+        <a href="https://flash-devs.vercel.app">Live Demo</a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
