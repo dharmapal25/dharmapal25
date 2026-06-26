@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E8A87C&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer+%F0%9F%9A%80;Building+Real-Time+%26+AI-Powered+Apps+%F0%9F%A4%96;National+Finalist+%E2%80%94+India+Innovates+2026+%F0%9F%8F%86;Exploring+System+Design+%26+Scalability+%F0%9F%8F%97%EF%B8%8F;Open+to+Internship+%26+Job+Opportunities+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E8A87C&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;Building+Real-Time+%26+AI-Powered+Apps;National+Finalist+%E2%80%94+India+Innovates+2026;Exploring+System+Design+%26+Scalability;Open+to+Internship+%26+Job+Opportunities" alt="Typing SVG"/>
 </p>
 
 <!-- Badges -->
