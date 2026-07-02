@@ -30,7 +30,7 @@ const Flash = {
   name     : "Dharmapal Bharati",
   alias    : "Flash ⚡",
   college  : "LIT Lucknow — B.Tech CSE (2028)",
-  focus    : ["Full-Stack Web Dev", "AI/ML", "System Design"],
+  focus    : ["Full-Stack Web Dev", "Ai", "System Design"],
   currently: "Building projects that scale ",
   openTo   : "Internships & Job Opportunities "
 };
