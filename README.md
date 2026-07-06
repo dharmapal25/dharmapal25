@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1917,50:C4956A,100:D4A843&height=200&section=header&text=Hey,%20%20I'm%20Dharmapal%20&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Builder&descAlignY=58&descSize=20&animation=fadeIn" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1917,50:C4956A,100:D4A843&height=200&section=header&text=Hey,%20%20I'm%20Dharmapal%20&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=58&descSize=20&animation=fadeIn" alt="Header"/>
 </p>
 
 <!-- Typing SVG -->
@@ -26,14 +26,14 @@
 ##  About Me
 
 ```javascript
-const Flash = {
-  name     : "Dharmapal Bharati",
-  alias    : "Flash ⚡",
-  college  : "LIT Lucknow — B.Tech CSE (2028)",
-  focus    : ["Full-Stack Web Dev", "Ai", "System Design"],
-  currently: "Building projects that scale ",
-  openTo   : "Internships & Job Opportunities "
-};
+const developer = {
+    name: "Dharmapal Bharati",
+    role: "Full Stack Developer",
+    education: "B.Tech CSE",
+    location: "India",
+    currentlyLearning: [ "System Design" ],
+    goal: "Build scalable software and contribute to impactful products."
+}
 ```
 
 ---
@@ -108,42 +108,73 @@ const Flash = {
 </table>
 
 ---
+## 🛠 Skills
 
-##  Tech Stack
+<table width="100%" align="center">
 
-**Frontend**
+<tr>
+<td align="center" width="25%"><b>Languages</b></td>
+<td align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,python,mysql&theme=dark&perline=5"/>
 
-**Backend**
+</td>
+</tr>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<tr>
+<td align="center"><b>Frontend</b></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react&theme=dark&perline=5"/>
 
-**Database & Cloud**
+<br/>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black"/>
 
-**Tools & Others**
+</td>
+</tr>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<tr>
+<td align="center"><b>Backend</b></td>
+<td align="center">
 
----
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=2"/>
+
+ <br/>
+
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST%20API-009688?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REDIS-B4CA65?style=flat-square&logo=redis&logoColor=red"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Databases</b></td>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark&perline=2"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Tools & DevOps</b></td>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vercel&theme=dark&perline=6"/>
+
+</td>
+</tr>
+
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C4956A&height=1&section=header" width="100%"/>
+
+
 
 ##  GitHub Stats
 
