@@ -155,12 +155,6 @@ Frontend | Backend & DB | AI & Vector Search
 ##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dharmapal25&show_icons=true&theme=dark&bg_color=1C1917&title_color=E8A87C&icon_color=D4A843&text_color=ffffff&border_color=C4956A&hide_border=false" height="165" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmapal25&layout=compact&theme=dark&bg_color=1C1917&title_color=E8A87C&text_color=ffffff&border_color=C4956A" height="165" alt="Top Languages"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dharmapal25&theme=dark&background=1C1917&ring=E8A87C&fire=D4A843&currStreakLabel=E8A87C&border=C4956A" alt="GitHub Streak"/>
 </p>
 
