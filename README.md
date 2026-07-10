@@ -32,7 +32,6 @@ const developer = {
     role: "Full Stack Developer",
     education: "B.Tech CSE",
     location: "India",
-    currentlyLearning: [ "System Design" ],
     goal: "Build scalable software and contribute to impactful products."
 }
 ```
