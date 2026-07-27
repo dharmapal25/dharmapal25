@@ -170,7 +170,7 @@ Frontend | Backend & DB | AI & Vector Search
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://flash-devs.vercel.app/">
+  <a href="https://dharmapal.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-E8A87C?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;
