@@ -26,14 +26,20 @@
 
 ##  About Me
 
-```javascript
-const developer = {
-    name: "Dharmapal Bharati",
-    role: "Full Stack Developer",
-    education: "B.Tech CSE",
-    location: "India",
-    goal: "Build scalable software and contribute to impactful products."
-}
+```text
+
+Name        : Dharmapal Bharati
+Role        : Full-Stack Developer
+Education   : B.Tech (CSE)
+Tech Stack  : React, Node.js, Express, MongoDB
+Interests   : Web Development, AI, Open Source
+
+------------------------------------------------------
+
+Portfolio   : https://dharmapal.vercel.app
+GitHub      : https://github.com/dharmapal25
+LinkedIn    : https://linkedin.com/in/dharmapal25
+Email       : dharmapalbharati2525@email.com
 ```
 
 
@@ -76,7 +82,7 @@ Frontend | Backend & DB | AI & Vector Search
 ---|---|---
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=progressive-web-apps&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Groq AI](https://img.shields.io/badge/Groq%20AI-F55000?style=for-the-badge) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
 
-[LIVE DEMO](https://flashgpt-ai.vercel.app) │ [GITHUB REPO](https://github.com/dharmapal25/FlashGPT)
+[LIVE DEMO](https://flashpilot.vercel.app/) │ [GITHUB REPO](https://github.com/dharmapal25/FlashGPT)
 
 <br/>
 
