@@ -26,21 +26,19 @@
 
 ##  About Me
 
-```text
+<pre><code>dharmapal25
 
-Name        : Dharmapal Bharati
-Role        : Full-Stack Developer
-Education   : B.Tech (CSE)
-Tech Stack  : React, Node.js, Express, MongoDB
-Interests   : Web Development, AI, Open Source
+  Name       : Dharmapal Bharati
+  College    : LIT, Lucknow
+  Grad Year  : 2028 | B.Tech (CSE)
+  Interests  : Full Stack Development, Open Source
 
-------------------------------------------------------
-
-Portfolio   : https://dharmapal.vercel.app
-GitHub      : https://github.com/dharmapal25
-LinkedIn    : https://linkedin.com/in/dharmapal25
-Email       : dharmapalbharati2525@email.com
-```
+- Connect On --------------------------------------------------
+  Portfolio  : <a href="https://dharmapal.vercel.app" target="_blank" >https://dharmapal.vercel.app</a>
+  GitHub     : <a href="https://github.com/dharmapal25" target="_blank">https://github.com/dharmapal25</a>
+  LinkedIn   : <a href="https://linkedin.com/in/dharmapal25" target="_blank">https://linkedin.com/in/dharmapal25</a>
+  Email      : <a href="mailto:dharmapalbharati2525@email.com" target="_blank">dharmapalbharati2525@email.com</a>
+</code></pre>
 
 
 <br/>
