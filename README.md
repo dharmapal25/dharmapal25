@@ -16,9 +16,6 @@
   <a href="https://flash-devs.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Live-E8A87C?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:dharmapalbharati2525@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-dharmapalbharati2525-D4A843?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=C4956A&height=1&section=header" width="100%"/>
@@ -72,11 +69,11 @@ Frontend | Backend | Tools & Libraries
 
 <br/>
 
-### FlashGPT
+### Flashpilot (Ai chatbot)
 
-**Full-stack intelligent AI assistant featuring a production-ready Retrieval-Augmented Generation (RAG) architecture.** Leverages high-speed Pinecone vector embeddings for ultra-low latency context retrieval and Groq AI for instant LLM processing. Features secure Google OAuth2 authentication and fully offline-capable Progressive Web App (PWA) integration.
+**Flashpilot is a full-stack AI chat app that lets you talk to multiple AI models — GPT, Llama, DeepSeek, and Qwen — all in one place**. Switch between models anytime without losing context. Every conversation is saved so you can always pick up from where you left off. Login is secured via Google OAuth with JWT session handling and API rate limiting. Chats auto-delete after 30 days and the app is installable on any device as a PWA.
 
-Frontend | Backend & DB | AI & Vector Search
+Frontend | Backend & DB | AI & LLMs
 ---|---|---
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=progressive-web-apps&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Groq AI](https://img.shields.io/badge/Groq%20AI-F55000?style=for-the-badge) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
 
@@ -85,7 +82,7 @@ Frontend | Backend & DB | AI & Vector Search
 <br/>
 
 ---
-## 🛠 Skills
+## Skills
 
 <table width="100%" align="center">
 
