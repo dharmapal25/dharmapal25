@@ -13,7 +13,7 @@
   <a href="https://github.com/dharmapal25">
     <img src="https://komarev.com/ghpvc/?username=dharmapal25&label=Profile%20Views&color=E8A87C&style=flat-square" alt="Profile Views"/>
   </a>
-  <a href="https://flash-devs.vercel.app/">
+  <a href="https://dharmapal.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Live-E8A87C?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
@@ -75,7 +75,7 @@ Frontend | Backend | Tools & Libraries
 
 Frontend | Backend & DB | AI & LLMs
 ---|---|---
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=progressive-web-apps&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Groq AI](https://img.shields.io/badge/Groq%20AI-F55000?style=for-the-badge) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![CSS](https://img.shields.io/badge/css-5A0FC8?style=for-the-badge&logo=css&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Groq AI](https://img.shields.io/badge/Groq%20AI-F55000?style=for-the-badge)
 
 [LIVE DEMO](https://flashpilot.vercel.app/) │ [GITHUB REPO](https://github.com/dharmapal25/FlashGPT)
 
