@@ -90,7 +90,7 @@ Frontend | Backend & DB | AI & LLMs
 <td align="center" width="25%"><b>Languages</b></td>
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=js,python,mysql&theme=dark&perline=5"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,mysql&theme=dark&perline=5"/>
 
 </td>
 </tr>
