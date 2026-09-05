@@ -30,7 +30,7 @@
   Grad Year  : 2028 | B.Tech (CSE)
   Interests  : Full Stack Development, Open Source
 
-- Connect On --------------------------------------------------
+- Connect On --------------------------------------
   Portfolio  : <a href="https://dharmapal.vercel.app" target="_blank" >https://dharmapal.vercel.app</a>
   GitHub     : <a href="https://github.com/dharmapal25" target="_blank">https://github.com/dharmapal25</a>
   LinkedIn   : <a href="https://linkedin.com/in/dharmapal25" target="_blank">https://linkedin.com/in/dharmapal25</a>
