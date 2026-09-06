@@ -23,7 +23,8 @@
 
 ##  About Me
 
-<pre><code>dharmapal25
+<pre><code>
+  Dharmapal 
 
   Name       : Dharmapal Bharati
   College    : LIT, Lucknow
